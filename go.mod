@@ -1,4 +1,4 @@
-module github.com/ravindrags24/sto-repo/go-udemy-project
+module github.com/ravindrags24/go-course
 
 go 1.16
 

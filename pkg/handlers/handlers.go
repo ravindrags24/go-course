@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/config"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/models"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/render"
+	"github.com/ravindrags24/go-course/pkg/config"
+	"github.com/ravindrags24/go-course/pkg/models"
+	"github.com/ravindrags24/go-course/pkg/render"
 	"net/http"
 )
 

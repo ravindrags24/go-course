@@ -3,8 +3,8 @@ package render
 import (
 	"bytes"
 	"fmt"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/config"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/models"
+	"github.com/ravindrags24/go-course/pkg/config"
+	"github.com/ravindrags24/go-course/pkg/models"
 	"html/template"
 	"log"
 	"net/http"

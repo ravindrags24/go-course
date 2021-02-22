@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/config"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/handlers"
-	"github.com/ravindrags24/sto-repo/go-udemy-project/pkg/render"
+	"github.com/ravindrags24/go-course/pkg/config"
+	"github.com/ravindrags24/go-course/pkg/handlers"
+	"github.com/ravindrags24/go-course/pkg/render"
 	"log"
 	"net/http"
 	"time"
